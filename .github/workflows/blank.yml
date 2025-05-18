@@ -20,8 +20,10 @@ jobs:
     name: Build PDF
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: baileyjm02/markdown-to-pdf@v1
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: markdown-to-pdf
+        uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: /
           output_dir: /
@@ -30,9 +32,21 @@ jobs:
           image_import: ./images
           # Default is true, can set to false to only get PDF files
           build_html: false
-      - uses: actions/upload-artifact@v4
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add --all
+          if [-z "$(git status --porcelain)"]; then
+             echo "::set-output name=push::false"
+          else
+             git commit -m "Add changes" -a
+             echo "::set-output name=push::true"
+          fi
+        shell: bash
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
         with:
-          name: PDFs
-          path: "*.pdf"
-          retention-days: 5
-          if-no-files-found: error
+           github_token: ${{ secrets.GITHUB_TOKEN }}
