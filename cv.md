@@ -3,11 +3,12 @@
 ## Senior SAP BTP Developer
 
 <style>
+{
   div.summary-table-pointer + table {
     font-size: small;
   }
+}
 </style>
-
 <div class="summary-table-pointer"></div>
 
 | Core Skills                               | SAP experience                           | Contacts                                                 | Legal status                                                        | Languages            |
