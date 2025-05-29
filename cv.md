@@ -2,6 +2,14 @@
 
 ## Senior SAP BTP Developer
 
+<style>
+  div.summary-table-pointer + table {
+    font-size: small;
+  }
+</style>
+
+<div class="summary-table-pointer"></div>
+
 | Core Skills                               | SAP experience                           | Contacts                                                 | Legal status                                                        | Languages            |
 | ----------------------------------------- | ---------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------- | -------------------- |
 | SAPUI5<br/>SAP CAP on Node.js<br/>SAP BTP | Since 2015 <br/>SAP -> Accenture -> EPAM | +371 256 01 057<br/>tiosteel@gmail.com<br/>[linkedin][1] | [Long-term resident of the EU in Latvia][2]<br/>Russian citizenship | EN B2+<br/>RU native |
