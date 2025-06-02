@@ -8,37 +8,27 @@
 
 ## Professional Summary
 
-A results-oriented Web Developer with over a decade of experience in designing, developing, and deploying robust web applications. My career began with a strong foundation in PHP-based backend development (Yii, Laravel, Bitrix), evolving into specialized expertise within the SAP ecosystem. This includes extensive experience with SAPUI5/Fiori frontend development and, for the past 2.5+ years, a primary focus on full-stack SAP Business Technology Platform (BTP) solutions leveraging Node.js and the CAP Framework. I have a proven track record of successfully leading development teams, managing project lifecycles, and delivering high-impact solutions for enterprise clients in retail and ERP sectors. I am actively seeking to integrate modern frontend frameworks such as React, Vue, or Svelte (ideally with Server-Side Rendering) into my skillset, complementing my strong SAP BTP backend expertise.
+I have more then 10 years of experience in SAP BTP Development, both frontend and backend. In most of them in the recent 5 years - with particular or full team-lead responsibilities. Plus, before entering SAP area I've been working about 4 years as a general Web Developer and still continiously keep tracking the state of technologies in this area.
+
+More about me in a structured way:
+
+| Outstanding at                                                                                                                 | Intend to grow at                                                                                                                                               | Not interested in                                                                                                                                                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Applying up-to-date code best practices - both SAP and non-SAP                                                                 | Pipelines setup - currently I can only work sufficiently with existing ones even though I clearly see that most of them aren't optimal                          | LLMs (or so-called AI) - for me its current performance is barely enough to automate simplest repeatable duties or to get straightforward scripts (I tried GPT-4, Gemini 1.5-pro and Cursor, Claude Sonnet 3.7 - was somehow satisfied only in last 2 of them)                                                                                                                                                   |
+| Providing clean, easily supportable, testable and extendable code                                                              | SAP BTP Integration - didn't have a chance to work with S/4 API Business Hub or CPI                                                                             | Working as a trainer - I performed as an SAP trainer twice in my life 7 years ago with an audience of 10-15 persons - the feedback wasn't good enough. Then I had a professional training for trainers - there I realize how much preparation it requires to effectively work with a non-familiar audience - more then I'm ready to commit to. Though I'm still ok to be a mentor for my colleagues when needed. |
+| Adoption to existing code base                                                                                                 | Regular Web-development technologies - the project of my dream is an app with SAP CAP on backend + React on Frontend or Next.js on backend + SAPUI5 on frontend | Business negotiations, pre-sales - separate duties which requires a dedicated investment in learning and mastering, and it's not just about soft-skills, but also about drawing good-looking diagramgs and presentations, preparing proper documentation etc.                                                                                                                                                    |
+| Systematic vision of all layers of target set of applications: frontends + backends + reuse components + BTP APIs and services | Creating and supporing multi-tenant application - I only worked on such application once and didn't even participate in its basic setup                         | UX design - I'm bad at all design-related tools, I also don't like SAP Fiori Guidelines but I admit it's at least consistent enough to (almost) blindly follow                                                                                                                                                                                                                                                   |
+|                                                                                                                                |                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
 
 ---
 
-## Technical Skills
+## Key Technical Skills
 
-* **Programming Languages:** JavaScript (ES6+), Node.js, PHP, SQL, HTML5, CSS3, VBA, (ABAP - Foundational)
-* **Frameworks & Libraries:**
-  * **SAP:** CAP Framework, SAPUI5, Fiori Elements, SAP Cloud SDK
-  * **JavaScript/Node.js:** Express.js (experience with)
-  * **PHP:** Yii, Laravel, Bitrix, OpenCart, Joomla
-* **SAP Technologies:**
-  * SAP Business Technology Platform (BTP) / SAP Cloud Platform (SCP)
-  * SAP HANA (Cloud & On-Premise)
-  * SAP Event Mesh
-  * OData Services, CDS Views
-* **Databases & Data Platforms:**
-  * SAP HANA
-  * MySQL, MS SQL
-  * Redis
-  * Kafka
-* **Tools & DevOps:**
-  * Docker
-  * Jenkins (with SAP Piper add-on)
-  * Git / Version Control
-  * Testing: Jest (Unit/Integration), Newman (API), JMeter (Performance), OPA5 (UI)
-  * Postman
-* **Methodologies:** Agile (experience with)
-* **Currently Exploring/Learning:** React, Vue, Svelte, TypeScript, GraphQL, PostgreSQL, Angular, Aurelia
-
----
+- SAP skills: SAPUI5 | CAP on Node.js | SAP HANA SQL | SAP BTP | MTA configuration
+- Non-SAP skills: JavaScript | Node.js | TypeScript | HTML | CSS | Git | Docker | VBA | Kafka
+- Auto-testing skills: Jest | Newman | OPA5 | wdi5 | ui5-test-runner (replaced Karma)
+- Skills in SAP BTP modules and its APIs: Build | Workflow | Event Mesh | Feature Flags | Destination Service | Cloud Connector | Managed (Workzone) and Standalone Approuter | XSUAA
 
 ## Professional Experience
 
