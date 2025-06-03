@@ -10,25 +10,26 @@
 
 I have more then 10 years of experience in SAP BTP Development, both frontend and backend. In most of them in the recent 5 years - with particular or full team-lead responsibilities. Plus, before entering SAP area I've been working about 4 years as a general Web Developer and still continiously keep tracking the state of technologies in this area.
 
-More about me in a structured way:
+### I'm outstanding at
+- Applying up-to-date code best practices - both SAP and non-SAP
+- Providing clean, easily supportable, testable and extendable code
+- Being a team player - I can take a required role in a team depending on current requirements, such as team lead who brings practices, delegates and reviews tasks; or casual performer who follows defined rules and focus on quantity; or firefighter whos focus is on most complex and unclear features
+- Adoption to existing code base and practices, ability to improve it with a sequence of a small steps
 
-| Outstanding at                                                                                                                 | Intend to grow at                                                                                                                                               | Not interested in                                                                                                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Applying up-to-date code best practices - both SAP and non-SAP                                                                 | Pipelines setup - currently I can only work sufficiently with existing ones even though I clearly see that most of them aren't optimal                          | LLMs (or so-called AI) - for me its current performance is barely enough to automate simplest repeatable duties or to get straightforward scripts (I tried GPT-4, Gemini 1.5-pro and Cursor, Claude Sonnet 3.7 - was somehow satisfied only in last 2 of them)                                                                                                                                                   |
-| Providing clean, easily supportable, testable and extendable code                                                              | SAP BTP Integration - didn't have a chance to work with S/4 API Business Hub or CPI                                                                             | Working as a trainer - I performed as an SAP trainer twice in my life 7 years ago with an audience of 10-15 persons - the feedback wasn't good enough. Then I had a professional training for trainers - there I realize how much preparation it requires to effectively work with a non-familiar audience - more then I'm ready to commit to. Though I'm still ok to be a mentor for my colleagues when needed. |
-| Adoption to existing code base                                                                                                 | Regular Web-development technologies - the project of my dream is an app with SAP CAP on backend + React on Frontend or Next.js on backend + SAPUI5 on frontend | Business negotiations, pre-sales - separate duties which requires a dedicated investment in learning and mastering, and it's not just about soft-skills, but also about drawing good-looking diagramgs and presentations, preparing proper documentation etc.                                                                                                                                                    |
-| Systematic vision of all layers of target set of applications: frontends + backends + reuse components + BTP APIs and services | Creating and supporing multi-tenant application - I only worked on such application once and didn't even participate in its basic setup                         | UX design - I'm bad at all design-related tools, I also don't like SAP Fiori Guidelines but I admit it's at least consistent enough to (almost) blindly follow                                                                                                                                                                                                                                                   |
-|                                                                                                                                |                                                                                                                                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                  |
-
-
----
+### I admit I have a room to improvement at
+- Pipelines setup - I can work with exising ones, sometimes even add or edit steps, but not set it up from scratch
+- Non-SAP Web-development technologies - even though I'm trying to track it continiously, the amount of practice is not enough to shine here
+- Creating and supporing multi-tenant applications - I only worked with such one once, and didn't participate in a configuring the basement
+- SAP BTP Integration - didn't have a chance to work with S/4 API Business Hub or CPI
 
 ## Key Technical Skills
 
-- SAP skills: SAPUI5 | CAP on Node.js | SAP HANA SQL | SAP BTP | MTA configuration
-- Non-SAP skills: JavaScript | Node.js | TypeScript | HTML | CSS | Git | Docker | VBA | Kafka
-- Auto-testing skills: Jest | Newman | OPA5 | wdi5 | ui5-test-runner (replaced Karma)
-- Skills in SAP BTP modules and its APIs: Build | Workflow | Event Mesh | Feature Flags | Destination Service | Cloud Connector | Managed (Workzone) and Standalone Approuter | XSUAA
+- **SAP skills**: SAPUI5 | Fiori Elements | CAP on Node.js | SAP HANA SQL | SAP BTP | MTA configuration
+- **Non-SAP skills**: JavaScript | Node.js | TypeScript | HTML | CSS | Git | Docker | VBA | Kafka
+- **Auto-testing skills**: Jest | Newman | OPA5 | wdi5 | ui5-test-runner (replaced Karma)
+- **Skills in SAP BTP modules**: Build | Workflow | Event Mesh | Feature Flags | Destination Service | Cloud Connector | Managed (Workzone) and Standalone Approuter | XSUAA
+
+Besides specified key skills, I worked with multiple different databases, also created and repaired a lot of web-sites based on different web frameworks - this is the pre-SAP part of experience. Also, worked quite a lot with VBA.
 
 ## Professional Experience
 
