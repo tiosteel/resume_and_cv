@@ -1,0 +1,7 @@
+{
+    "markdown-pdf.styles": [
+        "css/markdown-styles.css"
+    ],
+    "markdown-pdf.margin.top": "0.2cm",
+    "markdown-pdf.convertOnSaveExclude": ["readme.md"]
+}
